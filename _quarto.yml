@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Exploring Diabetes Analysis as a UBC MDS student"
